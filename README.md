@@ -48,9 +48,13 @@ metadata.json para catálogo persistente das imagens enviadas
 📂 Estrutura do Projeto:
 .
 ├── server.py                 # Servidor WebSocket: processa comandos e gerencia repositório
+
 ├── client.py                 # Cliente WebSocket: menu interativo, upload/list/download/view
+
 ├── metadata.json             # Gerado automaticamente: catálogo de imagens do servidor
+
 ├── imagens/                  # Gerado automaticamente: arquivos armazenados no servidor
+
 └── downloads_websocket/      # Gerado automaticamente: arquivos baixados no cliente
 
 
