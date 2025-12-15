@@ -71,11 +71,15 @@ pip install websockets pillow
 (Observação: o Tkinter normalmente já vem junto com o Python.
 Se der erro de Tkinter, reinstale Python marcando a opção “tcl/tk”.)
 
+
 Rodando o Servidor: 
+
 Abra um terminal na pasta do projeto e execute: python server.py
 
 
+
 Rodando o Cliente:
+
 Abra outro terminal na pasta do projeto e execute: python client.py
 
 O cliente irá solicitar um nome de usuário e exibirá um menu com as opções de comando.
