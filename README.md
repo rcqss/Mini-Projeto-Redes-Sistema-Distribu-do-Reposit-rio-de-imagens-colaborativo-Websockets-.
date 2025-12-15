@@ -67,6 +67,7 @@ pip funcionando
 
 Dependências instaladas:
 pip install websockets pillow
+
 (Observação: o Tkinter normalmente já vem junto com o Python.
 Se der erro de Tkinter, reinstale Python marcando a opção “tcl/tk”.)
 
